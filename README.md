@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charran78
-- 👀 I’m interested in ... programmaing
+- 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... kotlin, react y python. 
 - 💞️ I’m looking to collaborate on ... helping others
 - 📫 How to reach me ... send me an email
