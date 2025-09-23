@@ -1,3 +1,5 @@
+![Demo](banner.png)
+
 - 👋 Hi, I’m @Charran78
 - 👀 I’m interested in ... programming
 - 🌱 I’m currently learning ... kotlin, react y python. 
