@@ -28,6 +28,8 @@ Me encantaría colaborar en proyectos que permitan **ayudar a otros** y en los q
 
 La mejor forma de contactarme es a través de **email**. Puedes enviarme un correo electrónico y con gusto responderé.
 
+[📧 Mi Correo](mailto:beyond.digital.web@gmail.com)
+
 ### 📊 Mis Estadísticas en GitHub
 
 Aquí puedes ver un resumen de mi actividad:
@@ -43,6 +45,12 @@ Aquí puedes ver un resumen de mi actividad:
 
 A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de aprender como si fuera el primer día. ¡Esa es la chispa que me mantiene motivado!
 
+---
+
+[📋 Visita mi Portafolio](https://pedromencias.netlify.app/)
+[😏 Pásate por mi LinkedIn](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
+[☕ Invitame aun Café](https://buymeacoffee.com/beyonddigiv)
+[🐉 Blogs](https://androidalonia.wordpress.com/)
 ---
 
 <div align="center">
