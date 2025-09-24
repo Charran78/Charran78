@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre Mí
 
-Soy **@Charran78**, un entusiasta de la programación siempre buscando nuevas formas de aprender y construir. Mi pasión radica en la resolución de problemas a través del código y en la constante exploración de nuevas tecnologías.
+Soy un entusiasta de la programación siempre buscando nuevas formas de aprender y construir. Mi pasión radica en la resolución de problemas a través del código y en la constante exploración de nuevas tecnologías.
 
 Actualmente estoy inmerso en el aprendizaje y la profundización de:
 
@@ -30,11 +30,11 @@ La mejor forma de contactarme es a través de **email**. Puedes enviarme un corr
 
 ### 📊 Mis Estadísticas en GitHub
 
-Aquí puedes ver un resumen de mi actividad y contribuciones en GitHub (estas insignias se actualizan automáticamente):
+Aquí puedes ver un resumen de mi actividad:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charran78&show_icons=true&theme=radical&hide_border=false" alt="Estadísticas de GitHub de Charran78"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charran78&theme=radical&hide_border=false" alt="Racha de GitHub de Charran78"/>
+  
 </div>
 
 ---
