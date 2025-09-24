@@ -1,6 +1,6 @@
 <div align="center">
   <img src="banner.png" alt="Demo" width="full">
-  <h1>👋 ¡Hola, soy Charran78!</h1>
+  <h1>👋 ¡Hola, soy Pedro Mencías!</h1>
   <p>Desarrollador apasionado con un enfoque en el aprendizaje continuo y la colaboración.</p>
 </div>
 
