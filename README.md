@@ -10,11 +10,21 @@
 
 Soy un entusiasta de la programación siempre buscando nuevas formas de aprender y construir. Mi pasión radica en la resolución de problemas a través del código y en la constante exploración de nuevas tecnologías.
 
-Actualmente estoy inmerso en el aprendizaje y la profundización de:
+### 📚 Formación Continua
+
+Saqué mi Titulación de Técnico Superior en Sistemas de Telecomunicaciones e Informática hace ya muchos años, pero nunca dejo de aprender cosas nuevas. No hay mejor aptitud que mantenerse actualizado... nuestro campo cambia constantemente. En la actualidad estoy aplicándome en las certificaciones de Oracle, y me alegra compartir que he logrado:
+
+<div align="center">
+  <img src="OCI25AICFA.jpeg" alt="OCI Foundations AI">
+  <h1>OCI Foundations AI</h1>
+ </div>
+
+En cuanto a lenguajes de programación, estoy inmerso en el aprendizaje y la profundización de:
 
 -   **Kotlin**: Explorando el desarrollo moderno de aplicaciones.
 -   **React**: Construyendo interfaces de usuario dinámicas y reactivas.
 -   **Python**: Utilizándolo para scripting, desarrollo backend y análisis de datos.
+-   **OCI Certifications**: para integraciones de IA en la Nube y Local.
 
 ### 🌱 Mis Intereses
 
