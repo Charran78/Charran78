@@ -19,7 +19,7 @@ Saqué mi Titulación de Técnico Superior en Sistemas de Telecomunicaciones e I
 | | | |
 |:---:|:---:|:---:|
 | <img src="OCI25FA.png" alt="OCI Foundations AI" width="200"> | <img src="GENAIPRO.png" alt="OCI Generative AI Professional" width="200"> | <img src="proxtit.png" alt="Descripción 3" width="200"> |
-| **OCI Foundations AI** | **Título 2** | **Título 3** |
+| **OCI Foundations AI** | **OCI Generative AI Professional** | **Título 3** |
 | <img src="proxtit.png" alt="Descripción 4" width="200"> | <img src="proxtit.png" alt="Descripción 5" width="200"> | <img src="proxtit.png" alt="Descripción 6" width="200"> |
 | **Título 4** | **Título 5** | **Título 6** |
 
