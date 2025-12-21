@@ -6,16 +6,13 @@
 
 <div align="center">
 
-![Industrial AI](https://img.shields.io/badge/+18_YEARS_INDUSTRIAL_EXPERIENCE_-6c3dg3?style=for-the-badge&logo=tool&logoColor=white)
+[![Industrial AI](https://img.shields.io/badge/+18_YEARS_INDUSTRIAL_EXPERIENCE_-6c3dg3?style=for-the-badge&logo=tool&logoColor=white)]
 ![RAG Systems](https://img.shields.io/badge/RAG/CAG_Systems-Production_Ready-3b82f6?style=for-the-badge&logo=vectorworks&logoColor=white)
 ![Local AI](https://img.shields.io/badge/Local_AI-Ollama_Gemma3-8b5cf6?style=for-the-badge&logo=brain&logoColor=white)
 
 </div>
 
 <div align="center">
-
-
-![Banner](https://via.placeholder.com/1280x320/1e293b/60a5fa?text=Factory+%E2%86%92+RAG/CAG+%E2%86%92+Local+AI)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-3b82f6)](https://pedromencias.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
