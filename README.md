@@ -4,11 +4,9 @@
   <p>Desarrollador apasionado con un enfoque en el aprendizaje continuo y la colaboración.</p>
 </div>
 
-### 🏗️ Mi Stack Industrial-Tecnológico
-
 <div align="center">
 
-![Industrial AI](https://img.shields.io/badge/INDUSTRIAL_AI_+18_years_experience-0f172a?style=for-the-badge&logo=factory&logoColor=white)
+![Industrial AI](https://img.shields.io/badge/+18_YEARS_INDUSTRIAL_EXPERIENCE_-6b3cf3?style=for-the-badge&logo=factory&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG/CAG_Systems-Production_Ready-3b82f6?style=for-the-badge&logo=vectorworks&logoColor=white)
 ![Local AI](https://img.shields.io/badge/Local_AI-Ollama_Gemma3-8b5cf6?style=for-the-badge&logo=ai&logoColor=white)
 
