@@ -6,9 +6,9 @@
 
 <div align="center">
 
-![Industrial AI](https://img.shields.io/badge/+18_YEARS_INDUSTRIAL_EXPERIENCE_-6c3dg3?style=for-the-badge&logo=key&logoColor=white)
+![Industrial AI](https://img.shields.io/badge/+18_YEARS-INDUSTRIAL_EXPERIENCE-6c3dg3?style=for-the-badge&logo=ml&logoColor=white)
 ![RAG Systems](https://img.shields.io/badge/RAG/CAG_Systems-Production_Ready-3b82f6?style=for-the-badge&logo=vectorworks&logoColor=white)
-![Local AI](https://img.shields.io/badge/Local_AI-Ollama_Gemma3-8b5cf6?style=for-the-badge&logo=sun&logoColor=white)
+![Local AI](https://img.shields.io/badge/Local_AI-Ollama_Gemma3-8b5cf6?style=for-the-badge&logo=robot&logoColor=white)
 
 </div>
 
