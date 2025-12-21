@@ -19,7 +19,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-3b82f6)](https://pedromencias.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2)](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
-[![GitHub](https://img.shields.io/badge/GitHub-13_MVPs-black)](https://github.com/Charran78/)
+[![GitHub](https://img.shields.io/badge/GitHub-14_MVPs-orange)](https://github.com/Charran78/)
 
 </div>
 ---
