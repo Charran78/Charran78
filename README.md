@@ -33,7 +33,7 @@ Saqué mi Titulación de Técnico Superior en Sistemas de Telecomunicaciones e I
 
 | | | |
 |:---:|:---:|:---:|
-| <img src="OCI25FA.png" alt="OCI Foundations AI" width="200"> | <img src="GENAIPRO.png" alt="OCI Generative AI Professional" width="200"> | <img src="Vector_search_Badge.png" alt="OCI AI Vector Search Professional" width="200"> |
+| <img src="OCI25FA.png" alt="OCI Foundations AI" width="200"> | <img src="GENAIPRO.png" alt="OCI Generative AI Professional" width="200"> | [<img src="Vector_search_Badge.png" alt="OCI AI Vector Search Professional" width="200">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FCB14896D74C6DB1C57CCD73F024248417724AB3489E54A2443A718D9F311B9) |
 | **OCI Foundations AI** | **OCI Generative AI Professional** | **OCI AI Vector Search Professional** |
 | <img src="proxtit.png" alt="Descripción 4" width="200"> | <img src="proxtit.png" alt="Descripción 5" width="200"> | <img src="proxtit.png" alt="Descripción 6" width="200"> |
 | **Título 4** | **Título 5** | **Título 6** |
