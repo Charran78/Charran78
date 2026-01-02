@@ -61,15 +61,6 @@ La mejor forma de contactarme es a través de **email**. Puedes enviarme un corr
 
 [📧 Mi Correo](mailto:beyond.digital.web@gmail.com)
 
-### 📊 Mis Estadísticas en GitHub
-
-Aquí puedes ver un resumen de mi actividad:
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charran78&show_icons=true&theme=radical&hide_border=false" alt="Estadísticas de GitHub de Charran78"/>
-  
-</div>
-
 ---
 
 ### ⚡ Dato Curioso
@@ -77,6 +68,7 @@ Aquí puedes ver un resumen de mi actividad:
 A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de aprender como si fuera el primer día. ¡Esa es la chispa que me mantiene motivado!
 
 ---
+<div align="center">
 
 [📋 Visita mi Portafolio](https://pedromencias.netlify.app/)
 [😏 Pásate por mi LinkedIn](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
@@ -84,7 +76,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 [🐉 Blogs](https://androidalonia.wordpress.com/)
 ---
 
-<div align="center">
+
 <img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="full">
 <h1>¡Gracias por visitar mi perfil! 😊</h1>
 </div>
