@@ -75,7 +75,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 [☕ Invitame aun Café](https://buymeacoffee.com/beyonddigiv)
 [🐉 Blogs](https://androidalonia.wordpress.com/)
 ---
-
+---
 
 <img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="full">
 <h1>¡Gracias por visitar mi perfil! 😊</h1>
