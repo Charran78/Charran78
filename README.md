@@ -29,10 +29,10 @@ Soy un entusiasta de la programación siempre buscando nuevas formas de aprender
 
 Saqué mi Titulación de Técnico Superior en Sistemas de Telecomunicaciones e Informática hace ya muchos años, pero nunca dejo de aprender cosas nuevas. No hay mejor aptitud que mantenerse actualizado... nuestro campo cambia constantemente. En la actualidad estoy aplicándome en las certificaciones de Oracle, y me alegra compartir que he logrado:
 
-<div align="center" style="font-size: clamp(8px, 1.5vw, 14px);">
+<div align="center" font-size: clamp(8px, 1.5vw, 14px);>
 
 | | | |
-|:-----:|:-----:|:-----:|
+|:---:|:---:|:---:|
 | [<img src="OCI25FA.png" alt="OCI Foundations AI" width="150">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=5D666E69780837084DD5B6116336D2BE057EE5AFACA0F717809D4A3E641222D5) | [<img src="GENAIPRO.png" alt="OCI Generative AI Professional" width="150">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE5B98B0A58BBD92899A5629FD22BBFE5F3CF33415D55CCFCDEF6B9C0FF50F11) | [<img src="Vector_search_Badge.png" alt="OCI AI Vector Search Professional" width="150">](https://catalog-education.oracle.com/pls/certview/sharebadge?id=3FCB14896D74C6DB1C57CCD73F024248417724AB3489E54A2443A718D9F311B9) |
 | **OCI Foundations AI** | **OCI Generative AI Professional** | **OCI AI Vector Search Professional** |
 | [<img src="python.png" alt="Python" width="150">](https://cursa.app/es/mi-certificado/cert0b1d5b3b1ffa8d9fd26ae6bda3b73ae6) | [<img src="kotlin1.png" alt="Introducción a Kotlin - Google Developers" width="150">](https://developers.google.com/profile/badges/playlists/android/android-basics-compose-unit-1-pathway-1?hl=es-419) | [<img src="FPok.png" alt="FP" width="150">](https://www.todofp.es/que-estudiar/familias-profesionales/electricidad-electronica/sistemas-telecomunicaciones-informaticos.html) |
