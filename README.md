@@ -29,7 +29,7 @@ Soy un entusiasta de la programación siempre buscando nuevas formas de aprender
 
 Saqué mi Titulación de Técnico Superior en Sistemas de Telecomunicaciones e Informática hace ya muchos años, pero nunca dejo de aprender cosas nuevas. No hay mejor aptitud que mantenerse actualizado... nuestro campo cambia constantemente. En la actualidad estoy aplicándome en las certificaciones de Oracle, y me alegra compartir que he logrado:
 
-<div align="center">
+<div align="center" style="font-size: clamp(8px, 1.5vw, 14px);">
 
 | | | |
 |:-----:|:-----:|:-----:|
