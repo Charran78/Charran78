@@ -72,9 +72,19 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 [📋 Visita mi Portafolio](https://pedromencias.netlify.app/)
 [😏 Pásate por mi LinkedIn](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
-[☕ Invitame aun Café](https://buymeacoffee.com/beyonddigiv)
-[🐉 Blogs](https://androidalonia.wordpress.com/)
+
 ---
+
+<br />
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/beyonddigiv">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="256" alt="beyonddigiv" />
+  </a>
+</p>
+
+<br/>
+
 ---
 
 <img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="full">
