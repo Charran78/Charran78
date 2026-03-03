@@ -70,6 +70,11 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 ---
 <div align="center">
 
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pedro-mencías-68223336b" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/pedro-menc%C3%ADas-68223336b?trk=profile-badge">Pedro Mencías</a></div>
+
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="pedromencias" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pedromencias.netlify.app?trk=profile-badge">Pedro Mencías</a></div>
+              
+
 [📋 Visita mi Portafolio](https://pedromencias.netlify.app/)
 [😏 Pásate por mi LinkedIn](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
 
