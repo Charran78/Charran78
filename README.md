@@ -4,6 +4,8 @@
   <p>Desarrollador apasionado con un enfoque en el aprendizaje continuo y la colaboración.</p>
 </div>
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <div align="center">
 
 ![Industrial AI](https://img.shields.io/badge/+18_YEARS-INDUSTRIAL_EXPERIENCE-6c3dg3?style=for-the-badge&logo=ml&logoColor=white)
