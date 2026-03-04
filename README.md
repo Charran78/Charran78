@@ -71,11 +71,6 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 <div align="center">
 
       
-[📋 Visita mi Portafolio](https://pedromencias.netlify.app/)
-[😏 Pásate por mi LinkedIn](https://www.linkedin.com/in/pedro-menc%C3%ADas-68223336b/)
-
----
-
 <br />
 
 <p align="center">
