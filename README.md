@@ -59,7 +59,9 @@ Me encantaría colaborar en proyectos que permitan **ayudar a otros** y en los q
 
 La mejor forma de contactarme es a través de **email**. Puedes enviarme un correo electrónico y con gusto responderé.
 
-[📧 Mi Correo](mailto:beyond.digital.web@gmail.com)
+<a href="mailto:beyond.digital.web@gmail.com/">
+    <img align="center" src="https://i.postimg.cc/25BgCtcZ/email-png2.png" width="256" alt="Portfolio" /> 
+  </a>
 
 ---
 
