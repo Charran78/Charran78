@@ -90,7 +90,18 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 <br/>
 
 ---
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="full">
-<h1>¡Gracias por visitar mi perfil! 😊</h1>
+### **Lenguajes y Herramientas:**  
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,python,kotlin,firebase,md,git,github,vscode,antigravity,trae,cursor,claude,gemini,deepseek&perline=13)](https://skillicons.dev)
+
+### **Current Streak:**  
+[![charran78's current streak](https://streak-stats.demolab.com/?user=charran78&count_private=true&theme=blue-green&title_color=00b3ff)](https://git.io/streak-stats)
+
+---
+
+<img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="100%">
+
+# ¡Gracias por visitar mi perfil! 😊
+
 </div>
