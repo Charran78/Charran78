@@ -2,9 +2,12 @@ name: Profile 3D Contributions
 
 on:
   schedule:
-    # Se ejecuta cada día a las 00:00 JST (15:00 UTC)
     - cron: "0 15 * * *"
-  workflow_dispatch:  # Permite ejecución manual
+  workflow_dispatch:
+
+# Permisos explícitos para el token automático
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,17 +15,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Genera los gráficos 3D
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - name: Generate 3D contributions (Minecraft style)
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # Token automático
           USERNAME: ${{ github.repository_owner }}
+          TARGET: profile-gitblock                     # Solo estilo Minecraft (opcional)
 
-      # Commit y push automáticos
+      # Depuración: listar archivos generados
+      - name: List generated files
+        run: ls -la profile-3d-contrib/ || echo "No se generó la carpeta"
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A .
-          git commit -m "update 3d contributions" || echo "no changes"
+          git add profile-3d-contrib/
+          git commit -m "Update 3D contributions" || echo "No changes"
           git push
