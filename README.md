@@ -95,7 +95,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,python,kotlin,firebase,md,git,github,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,nodejs,python,kotlin,firebase,md,git,github,vscode,ollama,lmstudio,lmindex&perline=7)](https://skillicons.dev)
 
 </div>
 
