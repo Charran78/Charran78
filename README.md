@@ -109,11 +109,8 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 </picture>
 
 ---
-![Pickaxe](https://img.shields.io/badge/Miner-Level%2080-brown?logo=data:image/svg%2Bxml...)
+
 <img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="100%">
-| 🟩 | 🟩 | 🟩 | 🟪 | 🟩 | 🟫 | ⬛ |
-|---|---|---|---|---|---|---|
-| Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
 
 # ¡Gracias por visitar mi perfil! 😊
 
