@@ -2,7 +2,6 @@
   <img src="imagenes/banner_GH2.png" alt="Demo" width="full">
   <h1>👋 ¡Hola, soy Pedro Mencías!</h1>
   <p>Desarrollador apasionado con un enfoque en el aprendizaje continuo y la colaboración.</p>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </div>
 
 <div align="center">
