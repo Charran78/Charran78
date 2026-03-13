@@ -128,3 +128,4 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 # ¡Gracias por visitar mi perfil! 😊
 
 </div>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
