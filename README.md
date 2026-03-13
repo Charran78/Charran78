@@ -19,7 +19,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-20_MVPs-orange)](https://github.com/Charran78?tab=repositories)
 
 </div>
----
+
 
 ### <h1>🚀 Sobre Mí</h1>
 
@@ -63,13 +63,13 @@ La mejor forma de contactarme es a través de **email**. Puedes enviarme un corr
     <img align="center" src="https://i.postimg.cc/25BgCtcZ/email-png2.png" width="256" alt="Portfolio" /> 
   </a>
 </div>
----
+
 
 ### <h1>⚡ Dato Curioso</h1>
 
 A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de aprender como si fuera el primer día. ¡Esa es la chispa que me mantiene motivado!
 
----
+
 <div align="center">
 
       
@@ -89,7 +89,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 <br/>
 
----
+
 
 ## <h1>🛠️ Lenguajes y Herramientas<h/1>
 
@@ -99,7 +99,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 </div>
 
----
+
 
 ## <h1>📊 Estadísticas de GitHub</h1>
 
@@ -109,8 +109,6 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 </div>
 
----
-
 ## <h1>⛏️ Contribuciones</h1>
 
 <picture>
@@ -119,7 +117,6 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contributions" width="100%">
 </picture>
 
----
 
 <img src="https://raw.githubusercontent.com/charran78/charran78/main/banner_new.svg" alt="Banner Industrial AI Developer" width="100%">
 
