@@ -21,11 +21,11 @@
 </div>
 ---
 
-### 🚀 Sobre Mí
+### <h1>🚀 Sobre Mí</h1>
 
 Soy un entusiasta de la programación siempre buscando nuevas formas de aprender y construir. Mi pasión radica en la resolución de problemas a través del código y en la constante exploración de nuevas tecnologías.
 
-### 📚 Formación Continua
+### <h1>📚 Formación Continua</h1>
 
 Saqué mi Titulación de Técnico Superior en Sistemas de Telecomunicaciones e Informática hace ya muchos años, pero nunca dejo de aprender cosas nuevas. No hay mejor aptitud que mantenerse actualizado... nuestro campo cambia constantemente. En la actualidad estoy aplicándome en las certificaciones de Oracle, y me alegra compartir que he logrado:
 
@@ -47,15 +47,15 @@ En cuanto a lenguajes de programación, estoy inmerso en el aprendizaje y la pro
 -   **React**: Construyendo interfaces de usuario dinámicas y reactivas.
 -   **Python**: Utilizándolo para scripting, desarrollo backend y análisis de datos.
 
-### 🌱 Mis Intereses
+### <h1>🌱 Mis Intereses</h1>
 
 Me interesa todo lo relacionado con el desarrollo de software, desde la concepción de una idea hasta la implementación y optimización. Siempre estoy abierto a nuevos desafíos y a expandir mi conjunto de habilidades.
 
-### ✨ Busco Colaborar
+### <h1>✨ Busco Colaborar</h1>
 
 Me encantaría colaborar en proyectos que permitan **ayudar a otros** y en los que pueda aplicar mis conocimientos mientras sigo aprendiendo. Si tienes una idea o un proyecto en el que crees que puedo aportar, ¡no dudes en contactarme!
 
-### 📬 ¿Cómo Contactarme?
+### <h1>📬 ¿Cómo Contactarme?</h1>
 
 La mejor forma de contactarme es a través de **email**. Puedes enviarme un correo electrónico y con gusto responderé.
 <div align="center">
@@ -65,7 +65,7 @@ La mejor forma de contactarme es a través de **email**. Puedes enviarme un corr
 </div>
 ---
 
-### ⚡ Dato Curioso
+### <h1>⚡ Dato Curioso</h1>
 
 A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de aprender como si fuera el primer día. ¡Esa es la chispa que me mantiene motivado!
 
@@ -91,7 +91,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 ---
 
-## 🛠️ Lenguajes y Herramientas
+## <h1>🛠️ Lenguajes y Herramientas<h/1>
 
 <div align="center">
 
@@ -101,7 +101,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 ---
 
-## 📊 Estadísticas de GitHub
+## <h1>📊 Estadísticas de GitHub</h1>
 
 <div align="center">
 
@@ -111,7 +111,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 ---
 
-## ⛏️ Contribuciones
+## <h1>⛏️ Contribuciones</h1>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
@@ -125,6 +125,6 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 <div align="center">
 
-# ¡Gracias por visitar mi perfil! 😊
+# <h1>¡Gracias por visitar mi perfil! 😊</h1>
 
 </div>
