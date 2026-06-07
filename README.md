@@ -91,7 +91,7 @@ A pesar de mi experiencia, me considero un "newbie" eterno, siempre con ganas de
 
 
 
-## <h1>🛠️ Lenguajes y Herramientas<h/1>
+## <h1>🛠️ Lenguajes y Herramientas</h1>
 
 <div align="center">
 
