@@ -14,6 +14,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
 
       - name: Generate 3D contributions (Minecraft style)
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
@@ -31,6 +38,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile-3d-contrib/
-          git commit -m "Update 3D contributions" || echo "No changes"
+          git commit -m "Update 3D contributions" || echo "Sin cambios"
           git pull --rebase origin main
           git push
