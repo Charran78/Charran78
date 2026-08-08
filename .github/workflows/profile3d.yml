@@ -34,10 +34,9 @@ jobs:
         run: ls -la profile-3d-contrib/ || echo "No se generó la carpeta"
 
       - name: Commit & Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-3d-contrib/
-          git commit -m "Update 3D contributions" || echo "Sin cambios"
-          git pull --rebase origin main
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update 3D contributions"
+          file_pattern: "profile-3d-contrib/"
+          commit_options: "--no-verify"
+          push_options: "--force-with-lease"
